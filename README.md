@@ -1,7 +1,7 @@
 ![Imagem topo](./.github/assets/images/topo_readme.png)
 
 <h2 align="center">
-    Olá, Mundo. 👋
+    Olá, Mundo 👋
 </h2>
 
 <p align="center">
