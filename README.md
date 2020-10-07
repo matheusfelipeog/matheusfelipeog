@@ -17,10 +17,18 @@
 <p align="center">
     <i>Você pode me encontrar ou entrar em contato comigo por essas redes:</i>
     <br/>
-    <img src="https://img.shields.io/badge/-Github-000?logo=github&style=for-the-badge&logoColor=white&link=https://github.com/matheusfelipeog" alt="Bradge Github" />
-    <img src="https://img.shields.io/badge/-Telegram-2CA5E0?logo=telegram&style=for-the-badge&logoColor=white&link=https://t.me/matheusfelipeog" alt="Bradge Telegram" />
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&style=for-the-badge&logoColor=white&link=https://www.linkedin.com/in/matheusfelipeog" alt="Bradge LinkedIn" />
-    <img src="https://img.shields.io/badge/-ProtonMail-8B89CC?logo=protonmail&style=for-the-badge&logoColor=white&link=mailto:matheusfelipeog@protonmail.com" alt="Bradge ProtonMail" />
+    <a href="https://github.com/matheusfelipeog" target="_blank">
+        <img src="https://img.shields.io/badge/-Github-000?logo=github&style=for-the-badge&logoColor=white" alt="Bradge Github" />
+    </a>
+    <a href="https://t.me/matheusfelipeog" target="_blank">
+        <img src="https://img.shields.io/badge/-Telegram-2CA5E0?logo=telegram&style=for-the-badge&logoColor=white" alt="Bradge Telegram" />
+    </a>
+    <a href="https://www.linkedin.com/in/matheusfelipeog" target="_blank">
+        <img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&style=for-the-badge&logoColor=white" alt="Bradge LinkedIn" />
+    </a>
+    <a href="mailto:matheusfelipeog@protonmail.com" target="_blank">
+        <img src="https://img.shields.io/badge/-ProtonMail-8B89CC?logo=protonmail&style=for-the-badge&logoColor=white" alt="Bradge ProtonMail" />
+    </a>
 </p>
 
 ---
@@ -49,7 +57,7 @@
         <img src="https://github-readme-stats.vercel.app/api?username=matheusfelipeog&theme=dark&show_icons=true&include_all_commits=true" alt="Estátisticas Gerais" />
     </p>
     <p align="center">
-        <b>As techs utilizadas nos projetos</b> <br />
+        <b>Techs mais utilizadas nos projetos</b> <br />
         <img src="https://github-readme-stats.vercel.app/api/top-langs?username=matheusfelipeog&theme=dark" alt="Techs utilizadas nos projetos" />
     </p>
 </details>
