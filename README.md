@@ -40,7 +40,7 @@
         Atualmente venho contribuindo com o mundo open source para colocar em prática os conhecimentos adquiridos em meus estudos. Também ajudo a galera que está iniciando na programação nas comunidades.
     </p>
     <ul>
-        <li>🎓 Tecníco em Desenvolvimento de Sistema | ETEC</li>
+        <li>🎓 Tecníco em Desenvolvimento de Sistema pela ETEC</li>
         <li>🎯 Contribuindo e criando projetos open source</li>
         <li>📚 Estudando Python | Algoritmos | Dev Web | Inglês</li>
         <li>💬 Pode me fazer perguntas, gosto de ajudar!</li>
