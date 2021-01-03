@@ -1,4 +1,4 @@
-![Imagem topo](./.github/assets/images/topo_readme.png)
+![Imagem topo](./.github/assets/images/topo_readme.gif)
 
 <h2 align="center">
     Olá, Mundo 👋
@@ -62,4 +62,4 @@
     </p>
 </details>
 
-![Imagem topo](./.github/assets/images/rodape_readme.png)
+![Imagem topo](./.github/assets/images/rodape_readme.gif)
