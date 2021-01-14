@@ -1,4 +1,4 @@
-![Imagem topo](./.github/assets/images/topo_readme.gif)
+<img src="./.github/assets/images/topo_readme.gif" alt="Arte animada de matrix com logo MF (Matheus Felipe) para o topo do readme.md" />
 
 <h2 align="center">
     Olá, Mundo 👋
@@ -62,4 +62,4 @@
     </p>
 </details>
 
-![Imagem topo](./.github/assets/images/rodape_readme.gif)
+<img src="./.github/assets/images/rodape_readme.gif" alt="Arte animada de matrix para o rodapé do readme.md" />
