@@ -41,11 +41,11 @@
     </p>
     <ul>
         <li>🎓 Tecníco em Desenvolvimento de Sistema pela ETEC</li>
-        <li>🎯 Contribuindo e criando projetos open source</li>
+        <li>🎯 Contribuir e criar projetos open source</li>
         <li>📚 Estudando Python | Algoritmos | Dev Web | Inglês</li>
         <li>💬 Pode me fazer perguntas, gosto de ajudar!</li>
-        <li>🌑 Observando o espaço.</li>
-        <li>⚽ Jogo futsal quando possível.</li>
+        <li>🌑 Observando o espaço</li>
+        <li>⚽ Jogo futsal quando possível</li>
         <li>🎮 Me encontre no mundo dos games: <b>TheuzzLivee</b></li>
     </ul>
 </details>
