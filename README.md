@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-    Seja bem-vindo a meu github, aqui você vai encontrar meus projetos e minhas colaborações para o mundo open source.
+    Seja bem-vindo a meu GitHub, aqui você vai encontrar meus projetos e minhas colaborações para o mundo open source.
 </p>
 
 <br />
