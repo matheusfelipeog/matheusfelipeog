@@ -32,7 +32,7 @@
 </p>
 
 <p align="center">
-    <i>Você também pode me apoiar financeiramente por:</i>
+    <i>Você também pode me apoiar financeiramente via:</i>
     <br/><br/>
     <a href="https://nubank.com.br/pagar/19lis0/4NoREyOmoY" target="_blank">
         <img src="https://img.shields.io/badge/-PIX-820AD1?logo=nubank&style=for-the-badge&logoColor=white" alt="Bradge PIX do Nubank" />
