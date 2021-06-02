@@ -51,7 +51,7 @@
 </details>
 
 <details>
-    <summary>Minhas Estátisticas no Github</summary>
+    <summary>Minhas Estatísticas no Github</summary>
     <p align="center">
         <br />
         <img src="https://github-readme-stats.vercel.app/api?username=matheusfelipeog&theme=dark&show_icons=true&include_all_commits=true&locale=pt-br" alt="Estátisticas Gerais" />
