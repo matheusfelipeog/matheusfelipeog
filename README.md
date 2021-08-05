@@ -17,9 +17,6 @@
 <p align="center">
     <i>Você pode me encontrar ou entrar em contato comigo por essas redes:</i>
     <br/><br/>
-    <a href="https://github.com/matheusfelipeog" target="_blank">
-        <img src="https://img.shields.io/badge/-Github-000?logo=github&style=for-the-badge&logoColor=white" alt="Bradge Github" />
-    </a>
     <a href="https://t.me/matheusfelipeog" target="_blank">
         <img src="https://img.shields.io/badge/-Telegram-2CA5E0?logo=telegram&style=for-the-badge&logoColor=white" alt="Bradge Telegram" />
     </a>
