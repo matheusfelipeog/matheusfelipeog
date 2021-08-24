@@ -1,4 +1,4 @@
-<img src="./.github/assets/images/topo_readme.gif" alt="Arte animada de matrix com logo MF (Matheus Felipe) para o topo do readme.md" />
+<img src="./.github/assets/images/topo_readme.gif" alt="Animated matrix art with MF logo (Matheus Felipe) to the top of readme.md" />
 
 <h2 align="center">
     Hi, Human 🖖
@@ -18,13 +18,13 @@
     <i>You can find me or contact me through these networks:</i>
     <br/><br/>
     <a href="https://t.me/matheusfelipeog" target="_blank">
-        <img src="https://img.shields.io/badge/-Telegram-2CA5E0?logo=telegram&style=for-the-badge&logoColor=white" alt="Bradge Telegram" />
+        <img src="https://img.shields.io/badge/-Telegram-2CA5E0?logo=telegram&style=for-the-badge&logoColor=white" alt="Telegram Badge" />
     </a>
     <a href="https://www.linkedin.com/in/matheusfelipeog" target="_blank">
-        <img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&style=for-the-badge&logoColor=white" alt="Bradge LinkedIn" />
+        <img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&style=for-the-badge&logoColor=white" alt="LinkedIn Badge" />
     </a>
     <a href="mailto:matheusfelipeog@protonmail.com" target="_blank">
-        <img src="https://img.shields.io/badge/-ProtonMail-8B89CC?logo=protonmail&style=for-the-badge&logoColor=white" alt="Bradge ProtonMail" />
+        <img src="https://img.shields.io/badge/-ProtonMail-8B89CC?logo=protonmail&style=for-the-badge&logoColor=white" alt="ProtonMail Badge" />
     </a>
 </p>
 
@@ -32,7 +32,7 @@
     <i>You can also support me financially via:</i>
     <br/><br/>
     <a href="https://nubank.com.br/pagar/19lis0/4NoREyOmoY" target="_blank">
-        <img src="https://img.shields.io/badge/-PIX-820AD1?logo=nubank&style=for-the-badge&logoColor=white" alt="Bradge PIX do Nubank" />
+        <img src="https://img.shields.io/badge/-PIX-820AD1?logo=nubank&style=for-the-badge&logoColor=white" alt="PIX of Nubank Badge" />
     </a>
 </p>
 
@@ -58,11 +58,11 @@
     <summary>My GitHub stats</summary>
     <p align="center">
         <br />
-        <img src="https://github-readme-stats.vercel.app/api?username=matheusfelipeog&theme=dark&show_icons=true&include_all_commits=true&locale=pt-br" alt="Estátisticas Gerais" />
+        <img src="https://github-readme-stats.vercel.app/api?username=matheusfelipeog&theme=dark&show_icons=true&include_all_commits=true&locale=en" alt="General Statistics" />
     </p>
     <p align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=matheusfelipeog&layout=compact&theme=dark&locale=pt-br" alt="Techs utilizadas nos projetos" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=matheusfelipeog&layout=compact&theme=dark&locale=en" alt="Techs used in projects" />
     </p>
 </details>
 
-<img src="./.github/assets/images/rodape_readme.gif" alt="Arte animada de matrix para o rodapé do readme.md" />
+<img src="./.github/assets/images/rodape_readme.gif" alt="animated matrix art for footer readme.md" />
