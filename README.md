@@ -39,24 +39,23 @@
 ---
 
 <details>
-    <summary>Mais Sobre Mim</summary>
+    <summary>More about me</summary>
     <p>
-        Sou um estudante autodidata, introvertido e bem observador. <br />
-        Atualmente venho contribuindo com o mundo open source para colocar em prática os conhecimentos adquiridos em meus estudos. Também ajudo a galera que está iniciando na programação nas comunidades.
+        I'm a self-taught student, introverted and very observant. <br />
+        I'm currently contributing to the open source world to put into practice the knowledge acquired in my studies. I also help the guys who are starting programming in the communities.
     </p>
     <ul>
-        <li>🎓 Tecníco em Desenvolvimento de Sistema pela ETEC</li>
-        <li>🎯 Contribuir e criar projetos open source</li>
-        <li>📚 Estudando Python | Algoritmos | Dev Web | Inglês</li>
-        <li>💬 Pode me fazer perguntas, gosto de ajudar!</li>
-        <li>🌑 Observando o espaço</li>
-        <li>⚽ Jogo futsal quando possível</li>
-        <li>🎮 Me encontre no mundo dos games: <b>TheuzzLivee</b></li>
+        <li>🎓 Technician in System Development by ETEC</li>
+        <li>🎯 Contribute and create open source projects</li>
+        <li>📚 I'm studying Python | Algorithms | Dev Web | English</li>
+        <li>💬 You can ask me questions, I like to help!</li>
+        <li>🌑 Observing space</li>
+        <li>🎮 Find me in the gaming world: <b>TheuzzLivee</b></li>
     </ul>
 </details>
 
 <details>
-    <summary>Minhas Estatísticas no Github</summary>
+    <summary>My GitHub stats</summary>
     <p align="center">
         <br />
         <img src="https://github-readme-stats.vercel.app/api?username=matheusfelipeog&theme=dark&show_icons=true&include_all_commits=true&locale=pt-br" alt="Estátisticas Gerais" />
