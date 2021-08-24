@@ -1,21 +1,21 @@
 <img src="./.github/assets/images/topo_readme.gif" alt="Arte animada de matrix com logo MF (Matheus Felipe) para o topo do readme.md" />
 
 <h2 align="center">
-    Olá, Mundo 👋
+    Hi, Human 🖖
 </h2>
 
 <p align="center">
-    <b>Eu sou o Matheus, um desenvolvedor apaixonado por diversas áreas desse maravilhoso mundo da tecnologia.</b>
+    <b>I'm Matheus, a developer passionate about this amazing world of technology.</b>
 </p>
 
 <p align="center">
-    Seja bem-vindo a meu GitHub, aqui você vai encontrar meus projetos e minhas colaborações para o mundo open source.
+    Welcome to my GitHub, here you will find my projects and my collaborations for the open source world.
 </p>
 
 <br />
 
 <p align="center">
-    <i>Você pode me encontrar ou entrar em contato comigo por essas redes:</i>
+    <i>You can find me or contact me through these networks:</i>
     <br/><br/>
     <a href="https://t.me/matheusfelipeog" target="_blank">
         <img src="https://img.shields.io/badge/-Telegram-2CA5E0?logo=telegram&style=for-the-badge&logoColor=white" alt="Bradge Telegram" />
@@ -29,7 +29,7 @@
 </p>
 
 <p align="center">
-    <i>Você também pode me apoiar financeiramente via:</i>
+    <i>You can also support me financially via:</i>
     <br/><br/>
     <a href="https://nubank.com.br/pagar/19lis0/4NoREyOmoY" target="_blank">
         <img src="https://img.shields.io/badge/-PIX-820AD1?logo=nubank&style=for-the-badge&logoColor=white" alt="Bradge PIX do Nubank" />
