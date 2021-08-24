@@ -20,6 +20,9 @@
     <a href="https://t.me/matheusfelipeog" target="_blank">
         <img src="https://img.shields.io/badge/-Telegram-2CA5E0?logo=telegram&style=for-the-badge&logoColor=white" alt="Telegram Badge" />
     </a>
+    <a href="https://twitter.com/matheusfelipeog" target="_blank">
+        <img src="https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&style=for-the-badge&logoColor=white" alt="Twitter Badge" />
+    </a>
     <a href="https://www.linkedin.com/in/matheusfelipeog" target="_blank">
         <img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&style=for-the-badge&logoColor=white" alt="LinkedIn Badge" />
     </a>
