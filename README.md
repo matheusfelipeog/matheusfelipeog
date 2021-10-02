@@ -72,6 +72,9 @@
     <p align="center">
         <img src="https://github-profile-trophy.vercel.app/?username=matheusfelipeog&theme=darkhub&margin-w=15" alt="Trophies GitHub" />
     </p>
+    <p align="center">
+        <img src="https://activity-graph.herokuapp.com/graph?username=matheusfelipeog&theme=xcode&bg_color=151515" alt="Activity Graph" />
+    </p>
 </details>
 
 <img src="./.github/assets/images/rodape_readme.gif" alt="animated matrix art for footer readme.md" />
