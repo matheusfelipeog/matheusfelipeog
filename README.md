@@ -59,12 +59,13 @@
 
 <details>
     <summary>My GitHub stats</summary>
+    <br />
     <p align="center">
-        <br />
-        <img src="https://github-readme-stats.vercel.app/api?username=matheusfelipeog&theme=dark&show_icons=true&include_all_commits=true&locale=en" alt="General Statistics" />
+        <img src="https://github-profile-trophy.vercel.app/?username=matheusfelipeog&theme=darkhub&margin-w=10" alt="Trophies GitHub" />
     </p>
     <p align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=matheusfelipeog&layout=compact&theme=dark&locale=en" alt="Techs used in projects" />
+        <img src="https://github-readme-stats.vercel.app/api?username=matheusfelipeog&theme=dark&show_icons=true&include_all_commits=true&locale=en" alt="General Statistics" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=matheusfelipeog&layout=compact&theme=dark&locale=en" alt="Techs used in projects" height="195" />
     </p>
 </details>
 
