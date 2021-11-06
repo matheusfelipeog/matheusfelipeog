@@ -17,6 +17,9 @@
 <p align="center">
     <i>You can find me or contact me through these networks:</i>
     <br/><br/>
+    <a href="https://www.instagram.com/matheusfelipeog/" target="_blank">
+        <img src="https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&style=for-the-badge&logoColor=white" alt="Instagram Badge" />
+    </a>
     <a href="https://t.me/matheusfelipeog" target="_blank">
         <img src="https://img.shields.io/badge/-Telegram-2CA5E0?logo=telegram&style=for-the-badge&logoColor=white" alt="Telegram Badge" />
     </a>
