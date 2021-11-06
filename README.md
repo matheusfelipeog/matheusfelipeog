@@ -20,19 +20,22 @@
     <a href="https://www.instagram.com/matheusfelipeog/" target="_blank">
         <img src="https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&style=for-the-badge&logoColor=white" alt="Instagram Badge" />
     </a>
-    <a href="https://t.me/matheusfelipeog" target="_blank">
-        <img src="https://img.shields.io/badge/-Telegram-2CA5E0?logo=telegram&style=for-the-badge&logoColor=white" alt="Telegram Badge" />
+    <a href="https://www.linkedin.com/in/matheusfelipeog" target="_blank">
+        <img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&style=for-the-badge&logoColor=white" alt="LinkedIn Badge" />
     </a>
     <a href="https://twitter.com/matheusfelipeog" target="_blank">
         <img src="https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&style=for-the-badge&logoColor=white" alt="Twitter Badge" />
     </a>
-    <a href="https://www.linkedin.com/in/matheusfelipeog" target="_blank">
-        <img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&style=for-the-badge&logoColor=white" alt="LinkedIn Badge" />
+</p>
+
+<p align="center">
+    <a href="https://t.me/matheusfelipeog" target="_blank">
+        <img src="https://img.shields.io/badge/-Telegram-2CA5E0?logo=telegram&style=for-the-badge&logoColor=white" alt="Telegram Badge" />
     </a>
     <a href="mailto:matheusfelipeog@protonmail.com" target="_blank">
         <img src="https://img.shields.io/badge/-ProtonMail-8B89CC?logo=protonmail&style=for-the-badge&logoColor=white" alt="ProtonMail Badge" />
     </a>
-</p>
+<p/>
 
 <p align="center">
     <i>You can also support me financially via:</i>
