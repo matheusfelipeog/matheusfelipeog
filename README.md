@@ -18,22 +18,22 @@
     <i>You can find me or contact me through these networks:</i>
     <br/><br/>
     <a href="https://www.instagram.com/matheusfelipeog/" target="_blank">
-        <img src="https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&style=for-the-badge&logoColor=white" alt="Instagram Badge" />
+        <img src="https://img.shields.io/badge/-Instagram-EA2027?logo=instagram&style=for-the-badge&logoColor=white" alt="Instagram Badge" />
     </a>
     <a href="https://www.linkedin.com/in/matheusfelipeog" target="_blank">
-        <img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&style=for-the-badge&logoColor=white" alt="LinkedIn Badge" />
+        <img src="https://img.shields.io/badge/-LinkedIn-EA2027?logo=linkedin&style=for-the-badge&logoColor=white" alt="LinkedIn Badge" />
     </a>
     <a href="https://twitter.com/matheusfelipeog" target="_blank">
-        <img src="https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&style=for-the-badge&logoColor=white" alt="Twitter Badge" />
+        <img src="https://img.shields.io/badge/-Twitter-EA2027?logo=twitter&style=for-the-badge&logoColor=white" alt="Twitter Badge" />
     </a>
 </p>
 
 <p align="center">
     <a href="https://t.me/matheusfelipeog" target="_blank">
-        <img src="https://img.shields.io/badge/-Telegram-2CA5E0?logo=telegram&style=for-the-badge&logoColor=white" alt="Telegram Badge" />
+        <img src="https://img.shields.io/badge/-Telegram-EA2027?logo=telegram&style=for-the-badge&logoColor=white" alt="Telegram Badge" />
     </a>
     <a href="mailto:matheusfelipeog@protonmail.com" target="_blank">
-        <img src="https://img.shields.io/badge/-ProtonMail-8B89CC?logo=protonmail&style=for-the-badge&logoColor=white" alt="ProtonMail Badge" />
+        <img src="https://img.shields.io/badge/-ProtonMail-EA2027?logo=protonmail&style=for-the-badge&logoColor=white" alt="ProtonMail Badge" />
     </a>
 <p/>
 
@@ -41,7 +41,7 @@
     <i>You can also support me financially via:</i>
     <br/><br/>
     <a href="https://nubank.com.br/pagar/19lis0/4NoREyOmoY" target="_blank">
-        <img src="https://img.shields.io/badge/-PIX-820AD1?logo=nubank&style=for-the-badge&logoColor=white" alt="PIX of Nubank Badge" />
+        <img src="https://img.shields.io/badge/-PIX-2b1131?logo=nubank&style=for-the-badge&logoColor=white" alt="PIX of Nubank Badge" />
     </a>
 </p>
 
