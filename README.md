@@ -1,4 +1,4 @@
-<img src="./.github/assets/images/topo_readme.svg" alt="Animated christmas art with MF logo (Matheus Felipe) to the top of readme.md" />
+<img src="./.github/assets/images/topo_readme.svg" alt="Art with MF logo (Matheus Felipe) to the top of readme.md" />
 
 <h2 align="center">
     Hi, Human 🖖
@@ -83,4 +83,4 @@
     </p>
 </details>
 
-<img src="./.github/assets/images/rodape_readme.svg" alt="Animated christmas art for footer readme.md" />
+<img src="./.github/assets/images/rodape_readme.svg" alt="Art for footer readme.md" />
