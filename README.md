@@ -1,4 +1,4 @@
-<img src="./.github/assets/images/topo_readme_natal.gif" alt="Animated christmas art with MF logo (Matheus Felipe) to the top of readme.md" />
+<img src="./.github/assets/images/topo_readme.svg" alt="Animated christmas art with MF logo (Matheus Felipe) to the top of readme.md" />
 
 <h2 align="center">
     Hi, Human 🖖
@@ -18,22 +18,22 @@
     <i>You can find me or contact me through these networks:</i>
     <br/><br/>
     <a href="https://www.instagram.com/matheusfelipeog/" target="_blank">
-        <img src="https://img.shields.io/badge/-Instagram-EA2027?logo=instagram&style=for-the-badge&logoColor=white" alt="Instagram Badge" />
+        <img src="https://img.shields.io/badge/-Instagram-0A0A0B?logo=instagram&style=for-the-badge&logoColor=white" alt="Instagram Badge" style="border: 1px solid #fff" />
     </a>
     <a href="https://www.linkedin.com/in/matheusfelipeog" target="_blank">
-        <img src="https://img.shields.io/badge/-LinkedIn-EA2027?logo=linkedin&style=for-the-badge&logoColor=white" alt="LinkedIn Badge" />
+        <img src="https://img.shields.io/badge/-LinkedIn-0A0A0B?logo=linkedin&style=for-the-badge&logoColor=white" alt="LinkedIn Badge" style="border: 1px solid #fff" />
     </a>
     <a href="https://twitter.com/matheusfelipeog" target="_blank">
-        <img src="https://img.shields.io/badge/-Twitter-EA2027?logo=twitter&style=for-the-badge&logoColor=white" alt="Twitter Badge" />
+        <img src="https://img.shields.io/badge/-Twitter-0A0A0B?logo=twitter&style=for-the-badge&logoColor=white" alt="Twitter Badge" style="border: 1px solid #fff" />
     </a>
 </p>
 
 <p align="center">
     <a href="https://t.me/matheusfelipeog" target="_blank">
-        <img src="https://img.shields.io/badge/-Telegram-EA2027?logo=telegram&style=for-the-badge&logoColor=white" alt="Telegram Badge" />
+        <img src="https://img.shields.io/badge/-Telegram-0A0A0B?logo=telegram&style=for-the-badge&logoColor=white" alt="Telegram Badge" style="border: 1px solid #fff" />
     </a>
     <a href="mailto:matheusfelipeog@protonmail.com" target="_blank">
-        <img src="https://img.shields.io/badge/-ProtonMail-EA2027?logo=protonmail&style=for-the-badge&logoColor=white" alt="ProtonMail Badge" />
+        <img src="https://img.shields.io/badge/-ProtonMail-0A0A0B?logo=protonmail&style=for-the-badge&logoColor=white" alt="ProtonMail Badge" style="border: 1px solid #fff" />
     </a>
 <p/>
 
@@ -41,7 +41,7 @@
     <i>You can also support me financially via:</i>
     <br/><br/>
     <a href="https://nubank.com.br/pagar/19lis0/4NoREyOmoY" target="_blank">
-        <img src="https://img.shields.io/badge/-PIX-2b1131?logo=nubank&style=for-the-badge&logoColor=white" alt="PIX of Nubank Badge" />
+        <img src="https://img.shields.io/badge/-PIX-0A0A0B?logo=nubank&style=for-the-badge&logoColor=white" alt="PIX of Nubank Badge" style="border: 1px solid #fff" />
     </a>
 </p>
 
@@ -83,4 +83,4 @@
     </p>
 </details>
 
-<img src="./.github/assets/images/rodape_readme_natal.gif" alt="Animated christmas art for footer readme.md" />
+<img src="./.github/assets/images/rodape_readme.svg" alt="Animated christmas art for footer readme.md" />
