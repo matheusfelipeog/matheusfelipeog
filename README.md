@@ -40,6 +40,9 @@
 <p align="center">
     <i>You can also support me financially via:</i>
     <br/><br/>
+    <a href="https://www.paypal.com/donate/?hosted_button_id=DPJ32N4QCWUDY" target="_blank">
+        <img src="https://img.shields.io/badge/-PayPal-0A0A0B?logo=paypal&style=for-the-badge&logoColor=white" alt="PayPal Badge" />
+    </a>
     <a href="https://nubank.com.br/pagar/19lis0/4NoREyOmoY" target="_blank">
         <img src="https://img.shields.io/badge/-PIX-0A0A0B?logo=nubank&style=for-the-badge&logoColor=white" alt="PIX of Nubank Badge" />
     </a>
