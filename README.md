@@ -73,7 +73,7 @@
         <img src="https://github-profile-trophy.vercel.app/?username=matheusfelipeog&theme=darkhub&margin-w=15" alt="Trophies GitHub" />
     </p>
     <p align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=matheusfelipeog&theme=dark&show_icons=true&include_all_commits=true&locale=en" alt="General Statistics" />
+        <img src="https://github-readme-stats.vercel.app/api?username=matheusfelipeog&theme=dark&show_icons=true&include_all_commits=true&locale=en&count_private=true" alt="General Statistics" />
     </p>
     <p align="center">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=matheusfelipeog&theme=dark" alt="Streak Stats" />
@@ -82,7 +82,7 @@
         <img src="https://github-readme-stats.vercel.app/api/top-langs?username=matheusfelipeog&layout=compact&theme=dark&locale=en" alt="Techs used in projects" width="495px" />
     </p>
     <p align="center">
-        <img src="https://activity-graph.herokuapp.com/graph?username=matheusfelipeog&theme=xcode&bg_color=151515" alt="Activity Graph" />
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=matheusfelipeog&theme=xcode&bg_color=151515" alt="Activity Graph" />
     </p>
 </details>
 
