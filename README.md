@@ -76,7 +76,7 @@
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=matheusfelipeog&theme=dark" alt="Streak Stats" />
     </p>
     <p align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=matheusfelipeog&layout=compact&theme=dark&locale=en" alt="Techs used in projects" width="495px" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=matheusfelipeog&layout=compact&theme=dark&locale=en&langs_count=10" alt="Techs used in projects" width="495px" />
     </p>
     <p align="center">
         <img src="https://github-readme-activity-graph.vercel.app/graph?username=matheusfelipeog&theme=xcode&bg_color=151515" alt="Activity Graph" />
